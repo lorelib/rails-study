@@ -1,2 +1,0 @@
-# rails-study
-rails-study
